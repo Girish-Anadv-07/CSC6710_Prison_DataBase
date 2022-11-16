@@ -1,11 +1,10 @@
 # CSC6710_Prison_DataBase
-This Project mainly focuses on creating a DataBase for each prison in India.
+
+This Project mainly focuses on creating a DataBase for each prison in India. This DataBase holds data related to all the prisons and prisoners in it. We have 11 tables in this database which holds information of prisons, prisoners, deaths in prisons, staff, ipc sections, budgets etc.
 
 ### The ER Diagram of the DataBase
 
 <img width="899" alt="Screenshot 2022-11-15 at 11 13 58 AM" src="https://user-images.githubusercontent.com/79399756/202068917-f297b316-eb88-4408-ac93-0f74fd988582.png">
-
-It has 11 Tables which has details about Prisons, Prisoners, Released Prisoners, Deaths in Prison etc.
 
 ### Our Web Application created using Streamlit framework looks as below
 
