@@ -23,6 +23,7 @@ Step 2: Create a Database and right click you get restore option
 <img width="1680" alt="Screenshot 2022-11-15 at 9 43 41 PM" src="https://user-images.githubusercontent.com/79399756/202071090-bf4069e4-17a6-4860-9872-f9b8a54376ae.png">
 
 Step 3: Unzip DataBase_backup3.tar file in Data Base BackUp File and upload it as shown below
+
 <img width="1680" alt="Screenshot 2022-11-15 at 9 44 02 PM" src="https://user-images.githubusercontent.com/79399756/202071297-78adc666-bc50-4c33-8a98-c5003b6101d6.png">
 
 Step 4: Your DataBase is Ready.
